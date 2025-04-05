@@ -1,0 +1,122 @@
+[
+  {
+    "module": "AI Chat Interface",
+    "submodules": [
+      {
+        "title": "Idea Conversion",
+        "description": "Utilizes natural language processing to transform vague project ideas into structured project blueprints, enabling teams to visualize and plan their development efforts effectively.",
+        "selected": true
+      },
+      {
+        "title": "Interactive Brainstorming",
+        "description": "Facilitates real-time discussions and brainstorming sessions, allowing team members to collaboratively refine ideas and generate actionable tasks.",
+        "selected": true
+      },
+      {
+        "title": "Feedback Loop",
+        "description": "Provides a mechanism for continuous feedback on project ideas and structures, ensuring that all stakeholders are aligned and informed throughout the development process.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Project Structure Generation",
+    "submodules": [
+      {
+        "title": "Auto-Generated Repositories",
+        "description": "Automatically creates GitHub repositories with predefined modules, tasks, and file structures, streamlining the setup process for new projects and ensuring consistency across teams.",
+        "selected": true
+      },
+      {
+        "title": "Task Allocation",
+        "description": "Distributes tasks among team members based on their skills and availability, optimizing resource utilization and enhancing productivity.",
+        "selected": true
+      },
+      {
+        "title": "Module Specification",
+        "description": "Allows users to define and customize project modules, ensuring that all necessary components are included in the project structure for a comprehensive development approach.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Budget Management",
+    "submodules": [
+      {
+        "title": "Budget Negotiation",
+        "description": "Enables developers to request budgets for specific modules and tasks, facilitating transparent discussions about project costs and resource allocation.",
+        "selected": true
+      },
+      {
+        "title": "Fund Release Mechanism",
+        "description": "Links fund disbursement to task completion and GitHub commits, ensuring that payments are made only when milestones are achieved, promoting accountability and performance.",
+        "selected": true
+      },
+      {
+        "title": "Budget Tracking",
+        "description": "Provides tools for monitoring project expenses and budget adherence, allowing teams to make informed decisions and adjustments as needed throughout the project lifecycle.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Progress Tracking",
+    "submodules": [
+      {
+        "title": "Task Completion Monitoring",
+        "description": "Tracks the status of tasks and modules in real-time, providing insights into project progress and identifying potential bottlenecks early in the development process.",
+        "selected": true
+      },
+      {
+        "title": "Scope Change Management",
+        "description": "Facilitates the management of scope changes by documenting alterations and their impacts on timelines and budgets, ensuring that all stakeholders are aware of adjustments.",
+        "selected": true
+      },
+      {
+        "title": "AI-Driven Updates",
+        "description": "Generates automated project updates based on progress and changes, keeping all team members informed and aligned without the need for manual reporting.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Integration Services",
+    "submodules": [
+      {
+        "title": "GitHub Integration",
+        "description": "Seamlessly connects with GitHub to synchronize project tasks, commits, and repository management, enhancing collaboration and version control.",
+        "selected": true
+      },
+      {
+        "title": "Celo Fund Streaming",
+        "description": "Integrates with Celo to facilitate real-time fund streaming for project expenses, ensuring that financial transactions are efficient and transparent.",
+        "selected": true
+      },
+      {
+        "title": "Self Protocol Verification",
+        "description": "Utilizes Self Protocol to verify developer identities and contributions, fostering trust and accountability within the team and among stakeholders.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Use Case Scenarios",
+    "submodules": [
+      {
+        "title": "Hackathon Support",
+        "description": "Provides tailored features for hackathon participants, enabling rapid project setup and collaboration among diverse teams in a competitive environment.",
+        "selected": true
+      },
+      {
+        "title": "Freelance Client Management",
+        "description": "Equips freelancers with tools to manage client projects effectively, from initial discussions to final delivery, ensuring clear communication and project alignment.",
+        "selected": true
+      },
+      {
+        "title": "Open-Source Collaboration",
+        "description": "Facilitates collaboration on open-source projects by providing a structured approach to project management, encouraging contributions from a global community of developers.",
+        "selected": true
+      }
+    ]
+  }
+]
